@@ -1,0 +1,15 @@
+{
+  "name": "coffee-app",
+  "version": "1.0.0",
+  "description": "Node app for creating coffee orders. The app has functionality to add, store, remove and list a coffee order.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {}
+}
