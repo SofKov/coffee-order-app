@@ -39,8 +39,6 @@ const removeOrder = (orderToRemove) => {
     saveOrders(ordersToKeep);
 };
 
-
-
 module.exports = {
     addOrder,
     listOrders,
